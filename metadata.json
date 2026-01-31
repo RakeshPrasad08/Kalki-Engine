@@ -1,0 +1,9 @@
+{
+  "name": "Voice Of Kalki-1",
+  "description": "Empowering Atma Nirbhar creators with AI-driven content strategy and cinematic Veo videos. Built for the modern Digital India, supporting regional languages and the Make In India spirit.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
